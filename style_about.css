@@ -1,0 +1,36 @@
+
+body{
+    background-color:#B88E8D ;
+}
+.img1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.AM {
+    display: flex;
+}
+
+h1{
+    text-shadow: 0 5px 5px black;
+
+}
+
+.rightl {
+    margin-left: 20px;
+}
+
+.leftl {
+    margin-top: 200px;
+    margin-left: 10px;
+    font-weight: bolde;
+}
+
+.main_box p{
+    background-color: antiquewhite;
+    border: 2px solid white;
+    box-shadow: 3px 3px 3px 3px black;
+    border-radius: 15px;
+    text-align: center;
+}

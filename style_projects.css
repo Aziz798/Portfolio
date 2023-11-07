@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.secondPage{
+    background-color: #D8D2E1;
+}
+.myProject{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.text {
+    margin-top: 50px;
+	text-transform: uppercase;
+	background: linear-gradient(to right, #6369D1 0%, #34435E 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}
+#carouselExampleCaptions{
+    height:750px ;
+    width: 600px;
+    margin-top:50px ;
+}
+img{
+    overflow: hidden;
+    height: 750px;
+    border-radius: 15px;
+}
+.projectContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 860px;
+}
