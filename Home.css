@@ -100,7 +100,7 @@ nav{
 
 .typing h2 {
     position: relative;
-    color: #4FC3F7;
+    color:#D8D2E1 ;
     letter-spacing: 10px;
     font-size: 4rem;
     overflow: hidden;
@@ -123,7 +123,7 @@ nav{
 
 
     body{
-        background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+        background: linear-gradient(-45deg, #6369D1, #60E1E0, #B88E8D, #34435E);
         background-size: 400% 400%;
         animation: gradient 15s ease infinite;
         height: 100vh;

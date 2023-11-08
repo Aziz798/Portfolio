@@ -4,6 +4,8 @@
 }
 .secondPage{
     background-color: #D8D2E1;
+    width: 1900px;
+    height: 1000px;
 }
 .myProject{
     display: flex;
@@ -34,4 +36,8 @@ img{
     align-items: center;
     justify-content: space-around;
     height: 860px;
+}
+nav{
+    left: 0;
+    
 }
